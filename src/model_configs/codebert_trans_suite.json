@@ -1,0 +1,8 @@
+{
+    "num_epochs": 8,
+    "embedding_dim": 768,
+    "lr": 1e-5,
+    "checkpoint_threshold": 1,
+    "accum_iter": 64,
+    "log_iter": 4500
+}
